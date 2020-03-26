@@ -10,8 +10,6 @@ line 3
 
 var x, y
 
-section 2
-
 for each x
   print("This is test")
 
