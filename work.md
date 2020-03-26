@@ -2,6 +2,7 @@
 
 echo test
 
+include random
 include boto3
 
 var x, y
